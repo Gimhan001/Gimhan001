@@ -64,3 +64,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gimhan001&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gimhan001&layout=compact&langs_count=8&theme=radical&hide_border=true" height="160" />
 </div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gimhan001.Gimhan001)
