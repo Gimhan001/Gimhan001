@@ -51,7 +51,7 @@
   <img src="https://cdn.simpleicons.org/contentful" height="40" title="Contentful" alt="Contentful" />
   &nbsp;&nbsp;
   <!-- Amplitude (fixed) -->
-  <img src="https://cdn.brandfetch.io/idgF9FqCgW/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667820887617" height="40" title="Amplitude" alt="Amplitude" />
+  <img src="https://cdn.brandfetch.io/idgF9FqCgW/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668081804117" height="40" title="Amplitude" alt="Amplitude" />
   &nbsp;&nbsp;
   <!-- shadcn/ui (Radix base) -->
   <img src="https://cdn.simpleicons.org/radixui" height="40" title="shadcn/ui (Radix Base)" alt="Radix UI" />
