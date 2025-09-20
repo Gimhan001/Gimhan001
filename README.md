@@ -27,6 +27,9 @@
 <!-- Row 2: Styling / State -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,redux,sass,bootstrap,materialui" height="48" />
+  &nbsp;&nbsp;
+  <!-- Chakra UI -->
+  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg" height="42" title="Chakra UI" alt="Chakra UI" />
 </p>
 
 <!-- Row 3: Backend / DB -->
@@ -37,9 +40,12 @@
 <!-- Row 4: Tools / DevOps -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,gcp,git,github,vscode" height="48" />
+  &nbsp;&nbsp;
+  <!-- NX -->
+  <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="42" title="NX Monorepo" alt="NX" />
 </p>
 
-<!-- Extras not on skillicons -->
+<!-- Row 5: Extras -->
 <p align="center">
   <!-- Contentful -->
   <img src="https://cdn.simpleicons.org/contentful" height="40" title="Contentful" alt="Contentful" />
@@ -47,7 +53,7 @@
   <!-- Amplitude -->
   <img src="https://cdn.simpleicons.org/amplitudedotcom" height="40" title="Amplitude" alt="Amplitude" />
   &nbsp;&nbsp;
-  <!-- ShadCN (using Radix icon as proxy) -->
+  <!-- ShadCN (Radix base icon) -->
   <img src="https://cdn.simpleicons.org/radixui" height="40" title="shadcn/ui (Radix Base)" alt="Radix UI" />
 </p>
 
