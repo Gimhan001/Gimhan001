@@ -51,7 +51,7 @@
   <img src="https://cdn.simpleicons.org/contentful" height="40" title="Contentful" alt="Contentful" />
   &nbsp;&nbsp;
   <!-- Amplitude (fixed) -->
-  <img src="https://cdn.simpleicons.org/amplitude" height="40" title="Amplitude" alt="Amplitude" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Amplitude_logo.svg" height="40" title="Amplitude" alt="Amplitude" />
   &nbsp;&nbsp;
   <!-- shadcn/ui (Radix base) -->
   <img src="https://cdn.simpleicons.org/radixui" height="40" title="shadcn/ui (Radix Base)" alt="Radix UI" />
