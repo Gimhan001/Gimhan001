@@ -13,7 +13,7 @@
 - Building with **Next.js, React, Node.js**
 - Clean UI/UX, strong DX, production focus
 - DBs: **Prisma, PostgreSQL, MySQL**
-- Deploys: **Vercel** | Learning **NestJS**
+- Deploys: **Netlify** | **Vercel** | Learning **NestJS**
 
 ---
 
